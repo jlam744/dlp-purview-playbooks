@@ -12,9 +12,7 @@ These playbooks describe **process and decision logic only**. They contain no em
 
 ## SOPs
 
-| ID | SOP | Status |
-| --- | --- | --- |
-| SOP-DG-001 | [Data classification and handling](sops/data-classification-and-handling-sop.md) | In progress |
+Security and data governance SOPs, including Data Classification and Handling, live in [security-sops](https://github.com/jlam744/security-sops).
 
 ## Planned
 
